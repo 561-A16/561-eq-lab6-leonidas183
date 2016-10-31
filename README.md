@@ -28,4 +28,3 @@
   - Utiliser une *cache* pour stocker les packages entre les différents "builds" de Travis.
 - Configurer sur https://travis-ci.org/ un compte pour que TravisCI puisse exécuter le conteneur de tests.  
 - S'assurer que les tests passent sur TracisCI !
-

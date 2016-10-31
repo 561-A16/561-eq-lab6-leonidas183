@@ -2,6 +2,7 @@
 FROM microsoft/dotnet
 
 COPY src /src
+COPY /script/setup.sh /src/setup.sh
 
 RUN chmod +x /src/setup.sh
 
